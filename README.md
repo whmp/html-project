@@ -1,4 +1,4 @@
-# My HTML Project
+# HTML Project
 A simple website built with HTML.
 
 ## Overview
